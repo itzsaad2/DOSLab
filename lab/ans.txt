@@ -1,0 +1,26 @@
+Task 1: DoS technical questions
+-------------------------------------------------------------------
+
+1. In your own words briefly describe what a DOS attack is and how it affect a user.
+
+2. What is a DDoS?
+
+3. What are some types of DOS attacks? List 2 of them.
+
+4.What are 2 ways you can mitigate a DoS attack
+
+-------------------------------------------------------------------
+Task 2: SYN floods and TCP in Linux
+-------------------------------------------------------------------
+
+1.List the 3 ways to mitigate against a SYN flood attack.
+
+2.Briefly descibe each stage of the TCP 3 way handshake.
+
+3.What does the value returned by sysctl net.ipv4.tcp_synack_retries mean?
+
+-------------------------------------------------------------------
+Task 3: launching a synflood attack
+-------------------------------------------------------------------
+
+**please save your images, this file and your code in a seperate folder and submit a zip of it on markus.**
